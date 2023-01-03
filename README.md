@@ -1,6 +1,6 @@
 
 <center>
-	 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79238/programing-clipart-md.png" > height=”250” width=200”
+	 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79238/programing-clipart-md.png" > height=”150” width=100”
 </center>
 
 <h1 align="center">Hi, I'm Andres 👋🏾 👩🏾‍💻 </h1>
