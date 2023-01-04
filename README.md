@@ -12,6 +12,6 @@
 
   <br/>
     <a [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres9800&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) /></a>
-  <a href="https://github.com/DavidTK1198/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTK1198&layout=compact&langs_count=10" /></a>
+  <a href="https://github.com/DavidTK1198/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres9800&layout=compact&langs_count=10" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
